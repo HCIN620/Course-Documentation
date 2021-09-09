@@ -1,7 +1,5 @@
 **Information and Interaction Design**
 
-*Note: for all links in this webpage that connect directly to items in MyCourses, you have to have a web browser open and logged-in to MyCourses **first** for the links to work correctly.  It's a MyCourses thing.*
-
 ## Tuesday, September 6, 2021
 
 *Week 3: Contextual Inquiry and The Third Paradigm, HCI*

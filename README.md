@@ -18,7 +18,7 @@ See the [Archive (a running list of everything that came before today)](schedule
 
 - Due
   - [*Picking up a key* (p167 in the Study Guide)](media/book.pdf#page=167) exercise due in MyCourses before midnight Friday
-    - BTW, in case you haven't noticed, in the assignments when Prof. McQuaid refers to a reading in another book (e.g. *McCloud (2006, Chapter 1, p13)*) you know you can find that reading in the **misc** area in our MyCourses section, under **Table of Contents**, right
+    - BTW, in case you haven't noticed, in the assignments when Prof. McQuaid refers to a reading in another book (e.g. *McCloud (2006, Chapter 1, p13)*) you know you can find that reading in the **misc** area in our MyCourses section, under **Table of Contents**, right?
     - Please note: if you neglect to refer to the reference materials for anything in HCIN-620, it's obvious when I go to grade your assignments.  However, so far I (Prof. Kostin) have been fairly easy-going about that because things are always a little crazy when the semester starts.  But we're well underway now so my grading will be a little stricter from here on out.  So read-up!  Learn!  Don't try to wing-it. 🏃
 
 <hr>

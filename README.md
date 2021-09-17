@@ -1,5 +1,7 @@
 **Information and Interaction Design**
 
+[HCIN-620 Design Teams List (includes links to team websites)](design-teams.md)
+
 See the [Archive (a running list of everything that came before today)](schedule.md)
 
 ## Monday, September 13, 2021

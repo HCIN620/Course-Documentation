@@ -33,6 +33,20 @@ Team website: [RIT Mycourse (sic) Website Redesign](http://solace.ist.rit.edu/~c
 Team website: [Weather Cup](https://ys2884.wixsite.com/website)
 
 - **Chin Yin** Teng
+
 - **Adrita** Arefin
+
 - **Yuting** Shao
 
+  
+
+<hr>
+
+*For references, here are the websites from the other HCIN-620 section...*
+
+- [Team 1: IIT](https://people.rit.edu/zft5955/iit-team1/)
+- [Team 2: Pasatiempo](https://people.rit.edu/cdt1095/team2_pasatiempo/)
+- [Team 3: FLYWE](https://flywe4.squarespace.com/)
+- [Team 4: GK ZENG](https://zengguangkun.com/project/620hci-team)
+- [Team 5: effiCents](https://sites.google.com/g.rit.edu/efficents)
+- [Team 6: Autism Resources Hub](https://sonaisha.wixsite.com/hcin620/about-us)

@@ -22,7 +22,9 @@ Team website: [Outfit Picker](https://newyorkteam.notion.site/Togs-b8c341527ecf4
 
 ### Henrietta
 
-Team website: [RIT Mycourse (sic) Website Redesign](http://solace.ist.rit.edu/~cw2428/HCIN620/Milestone1.html) (note: requires VPN to access from off-campus)
+<s>Team website: [RIT Mycourse (sic) Website Redesign](http://solace.ist.rit.edu/~cw2428/HCIN620/Milestone1.html) (note: requires VPN to access from off-campus)</s>
+
+UPDATED Team website: [RIT Wellness Portal Redesign](https://henreitta.notion.site/henreitta/RIT-Wellness-Portal-Redesign-7e5aa00596434cb2823c5823e9026c6f)
 
 - **Isabelle** Qiu
 - **Jiaqi** Liu

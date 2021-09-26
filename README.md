@@ -4,19 +4,24 @@
 
 - See the [Archive (a running list of everything that came before today)](schedule.md)
 
-## Monday, September 20, 2021
+## Monday, September 27, 2021
 
-*Week 5: Contextual Inquiry*
+*Week 6: Prototyping*
 
-- Watch Mick's video: [Persona Exemplar (YouTube)](https://youtu.be/D1TE8UJ98h0) ...example of a persona (3:17)
+- Watch Mick's video: [Sniffy Pitch (YouTube)](https://youtu.be/j00ntqzNaIU) (5:52)
+  - It is never too early to begin planning your capstone. This video is a pitch for a project that started in this class and became a capstone for the two students involved, as well as an entrepreneurial startup funded by the Simone Center. See if you can match the standard they set!
+  - NOTE: as you watch the video keep in mind that this presentation about "Sniffy" came *after* HCIN-620. The presentation is full of market analysis data which is not related to HCIN-620.  Remember: this course is about **information and interaction design**!
+
 - Read in the Study Guide
-  - [Personas and Scenarios (read p58-60 in the Study Guide)](http://docs.hcin620.org/media/book.pdf#page=58) which includes references to other materials you need to read:
-    - Cooper et al. (2014) ...not the whole thing obviously.  Refer to the Study guide with how to read it
-      - Pruitt and Grudin (2003)
-  - NOTE: all the materials referenced in the Study Guide^ you can find in [the **misc** area in our *MyCourses* section](https://mycourses.rit.edu/d2l/le/content/936888/Home), under *Table of Contents*
+  - [Prototyping (read p59-70)](https://docs.hcin620.org/media/book.pdf#page=60) ...just start this, and finish next week<br>As always the Study Guide refers to other materials that you need to read, available as PDFs in [the **misc** section in MyCourses](https://mycourses.rit.edu/d2l/le/content/936888/Home)
+    - Sefelin, Tscheligi, and Giller (2003)
+    - Hendry et al. (2005)
 
-  - TO-DO as a team:
-      - If you haven't already, as a team write and post a *critique of each others' websites* in the #chatter channel in Slack
-      - Complete **Milestone 2 - Contextual Inquiry** (due: Friday, October 1 *...extra week*)
-          - In the Study Guide, read [Milestone 2: Contextual Inquiry, page 150-155](https://docs.hcin620.org/media/book.pdf#page=150) 
-          - Note that this project is the *most important* this semester.  The success of the other milestones and final project depend on your team's ability to correctly plan, implement, and document a contextual inquiry.  There's a lot that needs to go into it; please don't try to "wing-it!"  That would negatively impact the other milestones and the final project if you do it wrong.
+- TO-DO individually:
+  - [*Widget Redesign*, p171-172 in the Study Guide](media/book.pdf#page=171) (due: Friday, October 1)
+    - Description (from p186 in the Study Guide): "Learn to identify affordance and the lack of affordance. Take the environment around an interaction into account. Work on your sense of which problems are worth solving."
+    - NOTE: part of this week's exercise will have you *present your widget redesign to the class*.  Stand by for instructions about that later.
+- TO-DO [as a team](https://docs.google.com/spreadsheets/d/1U1clsjcfm6UQmgpOSfj9PMU5iLkSvYyq6xvRhagZOug/edit#gid=0):
+  - Keep the focus on completing [**Milestone 2 - Contextual Inquiry** (p150-155)](media/book.pdf#page=150) (due: Friday, October 1), and in parallel...
+  - Begin working on [**Milestone 3 - Personas** (p156)](media/book.pdf#page=156)
+

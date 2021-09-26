@@ -44,7 +44,7 @@ Team website: [Weather Cup](https://ys2884.wixsite.com/website)
 
 <hr>
 
-*For references, here are the websites from the other HCIN-620 section...*
+*For reference, here are the websites from the other HCIN-620 section...*
 
 - [Team 1: IIT](https://people.rit.edu/zft5955/iit-team1/)
 - [Team 2: Pasatiempo](https://people.rit.edu/cdt1095/team2_pasatiempo/)

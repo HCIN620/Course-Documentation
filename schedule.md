@@ -2,6 +2,23 @@
 
 Here’s a running list of everything, before this week
 
+## Monday, September 20, 2021
+
+*Week 5: Contextual Inquiry*
+
+- Watch Mick's video: [Persona Exemplar (YouTube)](https://youtu.be/D1TE8UJ98h0) ...example of a persona (3:17)
+- Read in the Study Guide
+  - [Personas and Scenarios (read p58-60 in the Study Guide)](http://docs.hcin620.org/media/book.pdf#page=58) which includes references to other materials you need to read:
+    - Cooper et al. (2014) ...not the whole thing obviously.  Refer to the Study guide with how to read it
+      - Pruitt and Grudin (2003)
+  - NOTE: all the materials referenced in the Study Guide^ you can find in [the **misc** area in our *MyCourses* section](https://mycourses.rit.edu/d2l/le/content/936888/Home), under *Table of Contents*
+
+  - TO-DO as a team:
+    - If you haven't already, as a team write and post a *critique of each others' websites* in the #chatter channel in Slack
+    - Complete **Milestone 2 - Contextual Inquiry** (due: Friday, October 1 *...extra week*)
+      - In the Study Guide, read [Milestone 2: Contextual Inquiry, page 150-155](https://docs.hcin620.org/media/book.pdf#page=150) 
+      - Note that this project is the *most important* this semester.  The success of the other milestones and final project depend on your team's ability to correctly plan, implement, and document a contextual inquiry.  There's a lot that needs to go into it; please don't try to "wing-it!"  That would negatively impact the other milestones and the final project if you do it wrong.
+
 ## Monday, September 13, 2021
 
 *Week 4: Teamwork*
@@ -20,9 +37,6 @@ Here’s a running list of everything, before this week
   - [*Picking up a key* (p167 in the Study Guide)](media/book.pdf#page=167) exercise due in MyCourses before midnight Friday
     - BTW, in case you haven't noticed, in the assignments when Prof. McQuaid refers to a reading in another book (e.g. *McCloud (2006, Chapter 1, p13)*) you know you can find that reading in [the **misc** area in our MyCourses section](https://mycourses.rit.edu/d2l/le/content/936888/Home), under **Table of Contents**, right?
     - Please note: if you neglect to refer to the reference materials for anything in HCIN-620, it's obvious when I go to grade your assignments.  However, so far I (Prof. Kostin) have been fairly easy-going about that because things are always a little crazy when the semester starts.  But we're well underway now so my grading will be a little stricter from here on out.  So read-up!  Learn!  Don't try to wing-it. 🏃
-
-<hr>
-
 
 Also this (not mentioned in the Week 4 area in MyCourses, but you have to do this too, as a team):
 

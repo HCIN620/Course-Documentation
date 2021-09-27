@@ -18,7 +18,7 @@
     - Hendry et al. (2005)
 
 - TO-DO individually:
-  - [*Widget Redesign*, p171-172 in the Study Guide](media/book.pdf#page=171) (due: Friday, October 1)
+  - [*Widget Redesign*, p171-172 in the Study Guide](media/book.pdf#page=171) (due: <s>Friday, October 1</s> UPDATED: Friday, October 8)
     - Description (from p186 in the Study Guide): "Learn to identify affordance and the lack of affordance. Take the environment around an interaction into account. Work on your sense of which problems are worth solving."
     - NOTE: part of this week's exercise will have you *present your widget redesign to the class*.  Stand by for instructions about that later.
 - TO-DO [as a team](https://docs.google.com/spreadsheets/d/1U1clsjcfm6UQmgpOSfj9PMU5iLkSvYyq6xvRhagZOug/edit#gid=0):

@@ -3,12 +3,20 @@
 - [HCIN-620 Design Teams List (includes links to team websites)](design-teams.md)
 - See the [Archive (a running list of everything that came before today)](schedule.md)
 
-## Wednesday, October 13, 2021
+## Monday, October 18, 2021
 
-*Week 8: Personal Information*
+NOTE: recently Professor McQuaid made minor updates to the Study Guide.  I don't know exactly where the edits were made or by how much the page numbering has changed.  Just make sure you're working with the latest version available in MyCourses or [here in our Course Documentation website.](media/book.pdf)
 
-- Read [Personal information, pages 70 to 75 in the study guide](https://docs.hcin620.org/media/book.pdf#page=70), as well as the external readings linked within
-  - Exercise: [share best practices (p72-73)](https://docs.hcin620.org/media/book.pdf#page=72) ...note: this is *not* a graded exercise, but according to Professor McQuaid: students of HCIN-620 really enjoy doing this exercise.  However he says that he only conducted this exercise during the in-person version of the course.  Still though there's no reason we couldn't create new Channels in Slack to create ad hoc groups to do it.
+*Week 9: Information, and Connecting Concepts*
 
-- TO-DO [as a team](https://docs.google.com/spreadsheets/d/1U1clsjcfm6UQmgpOSfj9PMU5iLkSvYyq6xvRhagZOug/edit#gid=0): complete the [**Milestone 3 - Personas** (p156)](media/book.pdf#page=156)
+- Read  [**Information**, pages 75 to 93 in the study guide](media/book.pdf#page=75) 
+  - This reading^ includes references to the following resources, only some of which are available in our **misc** folder in myCourses. 
+    - Shannon (1948)
+    - Cover and Thomas (2006)
+    - Arango (2015)
+    - Redish (2014)
+  - Professor McQuaid says, "*I (Mick) have chosen a set of topics that seem relevant to HCI specialists and have little overlap with the above-mentioned texts, so I refer the diligent reader to those texts for different perspectives.*"  I.e., you don't have to dive-in to the topic of Information Architecture, but you should be aware of what it is. (Kostin)
+- Read [**Connecting Concepts**, pages 94 to 95 in the study guide](media/book.pdf#page=94)
+- TO-DO: individually complete [*Exercise 4: Record Interaction* (p171 in the Study Guide)](media/book.pdf#page=171) due in MyCourses  Friday, October 22
+- TO-DO: [as a team](https://docs.google.com/spreadsheets/d/1U1clsjcfm6UQmgpOSfj9PMU5iLkSvYyq6xvRhagZOug/edit#gid=0): complete the [**Milestone 4 - Lo-fi Prototype** (p158 to 159)](media/book.pdf#page=158) due in MyCourses on Friday, October 29
 

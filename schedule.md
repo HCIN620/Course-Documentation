@@ -2,6 +2,31 @@
 
 Here’s a running list of everything, before this week
 
+## Monday, October 25, 2021
+
+*Week 10: Information Design Patterns*
+
+- Read: [Information design patterns, pages 94 to 99 in the study guide](media/book.pdf#page=94)
+- TO-DO: [as a team](https://docs.google.com/spreadsheets/d/1U1clsjcfm6UQmgpOSfj9PMU5iLkSvYyq6xvRhagZOug/edit#gid=0): complete the [**Milestone 4 - Lo-fi Prototype** (p158 to 159)](media/book.pdf#page=158) due in MyCourses on Friday, October 29
+
+## Monday, October 18, 2021
+
+*Week 9: Information, and Connecting Concepts*
+
+NOTE: recently Professor McQuaid made minor updates to the Study Guide.  I don't know exactly where the edits were made or by how much the page numbering has changed.  Just make sure you're working with the latest version available in MyCourses or [here in our Course Documentation website.](media/book.pdf)
+
+- Read  [**Information**, pages 75 to 93 in the study guide](media/book.pdf#page=75) 
+  - This reading^ includes references to the following resources, only some of which are available in our **misc** folder in myCourses. 
+    - Shannon (1948)
+    - Cover and Thomas (2006)
+    - Arango (2015)
+    - Redish (2014)
+- Read [**Connecting Concepts**, pages 94 to 95 in the study guide](media/book.pdf#page=94)
+- TO-DO: individually complete [*Exercise 4: Record Interaction* (p171 in the Study Guide)](media/book.pdf#page=171) due in MyCourses  Friday, October 22
+- TO-DO: [as a team](https://docs.google.com/spreadsheets/d/1U1clsjcfm6UQmgpOSfj9PMU5iLkSvYyq6xvRhagZOug/edit#gid=0): complete the [**Milestone 4 - Lo-fi Prototype** (p158 to 159)](media/book.pdf#page=158) due in MyCourses on Friday, October 29
+
+
+
 ## Wednesday, October 13, 2021
 
 *Week 8: Personal Information*

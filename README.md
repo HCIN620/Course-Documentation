@@ -3,11 +3,15 @@
 - [HCIN-620 Design Teams List (includes links to team websites)](design-teams.md)
 - See the [Archive (a running list of everything that came before today)](schedule.md)
 
-## Monday, November 1, 2021
+## Monday, November 15, 2021
 
-*Week 11: Finding Information*
+*Week 13: Visualization*   
 
-- Read: Finding Information, pages 99 to 103 in the study guide
-- In your group: Continue working on your second prototype
-- Due: The ambient notification exercise is due before midnight Friday
+- Read Visual information, pages 115 to 119 in the study guide, as well as the Bertin exercise, which provides a specific example of some of the ideas  
+
+- In your group, continue work on the second prototype, hi-fi    
+
+- Exercise: 07captions, due Friday, November 19 
+
+- Continue working on Milestone 5: m5hifi, due Friday, November 26
 

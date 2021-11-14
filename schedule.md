@@ -2,6 +2,23 @@
 
 Here’s a running list of everything, before this week
 
+## Monday, November 8, 2021
+
+*Week 12: Navigating Information*
+
+- Read Navigating information, pages 103 to 115 in the study guide, as well as the external readings linked therein
+- In your group, continue work on the second prototype, hi-fi
+- Exercise: 06corporateDir, due Friday, November 12
+- Continue working on Milestone 5: m5hifi, due Friday, November 26
+
+## Monday, November 1, 2021
+
+*Week 11: Finding Information*
+
+- Read: Finding Information, pages 99 to 103 in the study guide
+- In your group: Continue working on your second prototype
+- Due: The ambient notification exercise is due before midnight Friday
+
 ## Monday, October 25, 2021
 
 *Week 10: Information Design Patterns*
